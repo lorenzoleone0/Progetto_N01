@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F092BD4-2F59-4B52-A899-7C260572EABB}|Libreria\\Libreria.csproj|c:\\users\\pc\\source\\repos\\libreria\\libreria\\entita\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F092BD4-2F59-4B52-A899-7C260572EABB}|Libreria\\Libreria.csproj|solutionrelative:libreria\\entita\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F092BD4-2F59-4B52-A899-7C260572EABB}|Libreria\\Libreria.csproj|c:\\users\\pc\\source\\repos\\libreria\\libreria\\entita\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F092BD4-2F59-4B52-A899-7C260572EABB}|Libreria\\Libreria.csproj|solutionrelative:libreria\\entita\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F092BD4-2F59-4B52-A899-7C260572EABB}|Libreria\\Libreria.csproj|c:\\users\\pc\\source\\repos\\libreria\\libreria\\entita\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F092BD4-2F59-4B52-A899-7C260572EABB}|Libreria\\Libreria.csproj|solutionrelative:libreria\\entita\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F092BD4-2F59-4B52-A899-7C260572EABB}|Libreria\\Libreria.csproj|c:\\users\\pc\\source\\repos\\libreria\\libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F092BD4-2F59-4B52-A899-7C260572EABB}|Libreria\\Libreria.csproj|solutionrelative:libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Libreria\\Libreria\\Entita\\Utente.cs",
+              "RelativeDocumentMoniker": "Libreria\\Entita\\Utente.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Libreria\\Libreria\\Entita\\Utente.cs",
+              "RelativeToolTip": "Libreria\\Entita\\Utente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:11:26.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Libreria\\Libreria\\Entita\\Libro.cs",
+              "RelativeDocumentMoniker": "Libreria\\Entita\\Libro.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Libreria\\Libreria\\Entita\\Libro.cs",
+              "RelativeToolTip": "Libreria\\Entita\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:01:50.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Libreria\\Libreria\\Entita\\Categoria.cs",
+              "RelativeDocumentMoniker": "Libreria\\Entita\\Categoria.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Libreria\\Libreria\\Entita\\Categoria.cs",
+              "RelativeToolTip": "Libreria\\Entita\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:11:25.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Libreria\\Libreria\\Program.cs",
+              "RelativeDocumentMoniker": "Libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Libreria\\Libreria\\Program.cs",
+              "RelativeToolTip": "Libreria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:23:51.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
