@@ -33,6 +33,7 @@ Le api che dovranno essere realizzate sono le seguenti :
 -------------------------------------------------------------------------------------------
 ISTRUZIONI PER L'USO:
 Dopo che avrà scaricato il codice e il file del database (Libreria.bacpac), dovrà importare quest'ultimo in SQL Management Studio. (qui una guida su come farlo https://www.geeksforgeeks.org/how-to-import-and-export-sql-server-database/).
+
 Su SQL Management Studio il nome del server su cui collegagarsi sarà "localhost", il nome del database sarà "Libreria", quindi quando lo importerà non dovrà cambiare nulla, mentre per l'Account di accesso, dovrà creare un account chiamato "progettolibreria" con la password "libreria".
 
 Fatto ciò ora puo eseguire il codice, e nell'autenticazione per il JWT token puo utilizzare i seguenti account:
