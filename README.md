@@ -29,6 +29,7 @@ Le api che dovranno essere realizzate sono le seguenti :
       - Nome del libro
       - Data di Pubblicazione
       - Autore
+
 La ricerca dovrà paginare i risultati, in base ad un parametro passato nella chiamata
 
 --------------------------------------------------------------------------------------------
