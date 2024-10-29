@@ -30,9 +30,9 @@ Le api che dovranno essere realizzate sono le seguenti :
 	  - Data di Pubblicazione
 	  - Autore
 La ricerca dovrà paginare i risultati, in base ad un parametro passato nella chiamata
-
--------------------------------------------------------------------------------------------
-
+.
+.
+.
 ISTRUZIONI PER L'USO:
 Dopo che avrà scaricato il codice e il file del database (Libreria.bacpac), dovrà importare quest'ultimo in SQL Management Studio. (qui una guida su come farlo https://www.geeksforgeeks.org/how-to-import-and-export-sql-server-database/).
 
