@@ -32,14 +32,15 @@ Le api che dovranno essere realizzate sono le seguenti :
    La ricerca dovrà paginare i risultati, in base ad un parametro passato nella chiamata
 -------------------------------------------------------------------------------------------
 ISTRUZIONI PER L'USO:
-Dopo che avrà scaricato il codice e il file del database (Libreria.bacpac), dovrà importare quest'ultimo in SQL Management Studio. (qui una guida su come farlo https://www.geeksforgeeks.org/how-to-import-and-export-sql-server-database/)
-Su SQL Management Studio il nome del server su cui collegagarsi sarà "localhost", il nome del database sarà "Libreria", quindi quando lo importerà non dovrà cambiare nulla, 
-mentre per l'Account di accesso, dovrà creare un account chiamato "progettolibreria" con la password "libreria".
+Dopo che avrà scaricato il codice e il file del database (Libreria.bacpac), dovrà importare quest'ultimo in SQL Management Studio. (qui una guida su come farlo https://www.geeksforgeeks.org/how-to-import-and-export-sql-server-database/).
+Su SQL Management Studio il nome del server su cui collegagarsi sarà "localhost", il nome del database sarà "Libreria", quindi quando lo importerà non dovrà cambiare nulla, mentre per l'Account di accesso, dovrà creare un account chiamato "progettolibreria" con la password "libreria".
+
 Fatto ciò ora puo eseguire il codice, e nell'autenticazione per il JWT token puo utilizzare i seguenti account:
 -Email:Mariorossi123@gmail.com, Password:String8*
 -Email:luigiverdi45@libero.it, Password:Value88#
 -Email:CarloGiallo67@gmail.com, Password:Value1*
 Oppure ne crea uno nuovo, cosi potrà utilizzare tutte le api disponibili.
+
 Per la paginazione dei libri può mettere direttamente l'autore: Bram Stoker, dato che è l'unico che ha 6 libri all'interno del database
 
 
